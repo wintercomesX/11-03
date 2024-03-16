@@ -26,7 +26,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![ELK](https://github.com/wintercomesX/11-03/blob/main/11-03/img/img1.PNG)`
+![ELK](https://github.com/wintercomesX/11-03/blob/main/11-03/img/png1.PNG)`
 
 
 ---
@@ -36,7 +36,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Kibana](https://github.com/wintercomesX/11-03/blob/main/11-03/img/img2.PNG)`
+![Kibana](https://github.com/wintercomesX/11-03/blob/main/11-03/img/png2.PNG)`
 
 
 ---
@@ -45,7 +45,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Logstash](https://github.com/wintercomesX/11-03/blob/main/11-03/img/img3.PNG)`
+![Logstash](https://github.com/wintercomesX/11-03/blob/main/11-03/img/png3.PNG)`
 
 ---
 
@@ -53,6 +53,6 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Filebeat](https://github.com/wintercomesX/11-03/blob/main/11-03/img/img4.PNG)`
+![Filebeat](https://github.com/wintercomesX/11-03/blob/main/11-03/img/png4.PNG)`
 
 ---
