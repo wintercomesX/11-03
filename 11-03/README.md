@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-`При необходимости прикрепитe сюда скриншоты
+`ELK
 
 ![ELK](https://github.com/wintercomesX/11-03/blob/main/11-03/img/png1.PNG)`
 
@@ -34,7 +34,7 @@
 ### Задание 2
 
 
-`При необходимости прикрепитe сюда скриншоты
+`KIBANA
 
 ![Kibana](https://github.com/wintercomesX/11-03/blob/main/11-03/img/png2.PNG)`
 
@@ -43,7 +43,7 @@
 
 ### Задание 3
 
-`При необходимости прикрепитe сюда скриншоты
+`LOGSTASH
 
 ![Logstash](https://github.com/wintercomesX/11-03/blob/main/11-03/img/png3.PNG)`
 
@@ -51,7 +51,7 @@
 
 ### Задание 4
 
-`При необходимости прикрепитe сюда скриншоты
+`FILEBEAT
 
 ![Filebeat](https://github.com/wintercomesX/11-03/blob/main/11-03/img/png4.PNG)`
 
